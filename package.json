@@ -1,0 +1,13 @@
+{
+  "name": "newsflow-bdd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercício de BDD com Cucumber.js para o NewsFlow",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:dry": "cucumber-js --dry-run"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0"
+  }
+}
