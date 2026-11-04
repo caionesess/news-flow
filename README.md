@@ -1,6 +1,7 @@
 # NewsFlow — BDD com Cucumber.js
 
 Exercício de histórias de usuário, cenários Gherkin em português e automação do domínio em memória.
+**Alunos: Caio Fernandes e Vitor Oliveira**
 
 ## Como executar
 
